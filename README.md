@@ -1,6 +1,6 @@
 # WAStickersThirdParty-For-Objective-C
 
-###Whatsapp Stickers Sample Code:
+### Whatsapp Stickers Sample Code:
 ```
 https://github.com/WhatsApp/stickers/tree/master/iOS
 ```
