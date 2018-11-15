@@ -1,9 +1,8 @@
 # WAStickersThirdParty-For-Objective-C
 
 ### Whatsapp Stickers Sample Code:
-```
-https://github.com/WhatsApp/stickers/tree/master/iOS
-```
+> https://github.com/WhatsApp/stickers/tree/master/iOS
+
 
 ### First, Google "How to use Swift Classes in Objective-C"
 
