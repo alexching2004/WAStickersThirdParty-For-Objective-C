@@ -1,0 +1,43 @@
+{
+    "ios_app_store_link" : "https://www.ctgoodjobs.hk/cp/ct-app-2014-ctapp-itunes",
+    "android_play_store_link" : "https://www.ctgoodjobs.hk/cp/ct-app-2014-ctapp-google-play",
+    "sticker_packs" : [
+    {
+        "identifier": "Alex20181109",
+        "name": "Alex",
+        "publisher": "Alex Ching",
+        "tray_image_file" : "tray_Cuppy.png",
+        "publisher_website" : "https://www.ctgoodjobs.hk/",
+        "privacy_policy_website" : "https://www.ctgoodjobs.hk/privacy-policy",
+        "license_agreement_website" : "https://www.ctgoodjobs.hk/privacy-policy",
+        "stickers": [
+        {
+            "image_file": "01_Alex_bluescreen.png",
+            "emojis": ["☕","🙂"]
+        },
+        {
+            "image_file": "02_Alex_angry.png",
+            "emojis": ["😄","😀"]
+        },
+        {
+            "image_file": "03_Alex_tired.png",
+            "emojis": ["😆","😂"]
+        },
+        {
+            "image_file": "04_Alex_workhard.png",
+            "emojis": ["😃", "😍"]
+        },
+        {
+            "image_file": "05_Alex_disgusting.png",
+            "emojis": ["😭","💧"]
+        },
+        {
+            "image_file": "06_Alex_phone.png",
+            "emojis": ["😍","♥"]
+        },
+        {
+            "image_file": "07_Alex_battery.png",
+            "emojis": ["💔","👎"]
+        }]
+    }]
+}
